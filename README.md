@@ -3,12 +3,14 @@
 A beginner-friendly collection of basic machine learning algorithm implementations using simple datasets.  
 This repository includes step-by-step Jupyter notebooks covering fundamental concepts like regression, classification, and clustering — implemented from scratch or using popular libraries like `scikit-learn`.
 
+> This repository is a work-in-progress
+
 ---
 
 ## 📁 Repository Structure
 
 - `regression/`  
-  Linear regression models implemented from scratch and with libraries.
+  Regression models implemented from scratch and with libraries.
 
 - `classification/`  
   Notebooks demonstrating basic classification techniques.
