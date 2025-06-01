@@ -7,7 +7,7 @@ This repository includes step-by-step Jupyter notebooks covering fundamental con
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 - `regression/`  
   Regression models implemented from scratch and with libraries.
@@ -25,7 +25,7 @@ This repository includes step-by-step Jupyter notebooks covering fundamental con
 
 ---
 
-## 🚀 Getting Started
+## Steps to run locally
 
 To run the notebooks locally, follow these steps:
 
